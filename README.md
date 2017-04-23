@@ -34,6 +34,33 @@ This is based on the number of ad plays ie the time you allocate for a particula
             
             Total amount = Total duration in sec * Rate (based on type)
             
+    
+  * Now consider the situation for an app developer
+  
+       They shall be paid on the basis of the advertisement they are chosen, type of advertisement boxes and categories.
+       
+       
+       Here also we follow the same equation:
+       
+            Total amount = Total duration in sec * Rate (based on type)
             
+            
+## Type of Advertisement
 
+  The advertisement can be of various categories which includes Products,Health Care,Services,Automobiles e.t.c
+  
+  For App Developers, we provide the above mentioned category along with the selection of  advertisement boxes.
+  
+  ### What is an advertisement box?
+ 
+ It is ui based.App developer can allot a space on app screen for the advertisement.
+ It can be of three types:
+ 
+ * Full Screen Ad
+ * Bottom Gravity Ad
+ * RecyclerView Ad
+
+       
+       
+       
 
