@@ -19,7 +19,7 @@ This is based on the number of ad plays ie the time you allocate for a particula
 >        Packages include the number of plays,type of advertisements,type of applications e.t.c
 >  ####  For a advertisement provider (App Developer)
 >        The provider (the one who shows the ad in their app, most probably the app
->        developers) needs to set up their profile for the type of advertisement              requirement.
+>        developers) needs to set up their profile for the type of advertisement requirement.
 
   #### Revenue Model   
 
