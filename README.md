@@ -6,7 +6,7 @@ Everyone needs to be adverstised ,But the real problem is where to place your ad
 ## How it works?
 
 Our beta version targets only in android apps, So the system is much simpler as you can imagine.
-   >  *  Just login to our ad-network.
+   >  *  Just login to ad-network.
    >  *  Create an account.
    >  *  Select your role (Advertiser or Provider).
    >  *  Place your ad or Select your ad
@@ -17,10 +17,23 @@ This is based on the number of ad plays ie the time you allocate for a particula
 >  ####  For an advetiser
 >        The advertiser have to buy certain Ad-Network packages inorder to advertise.
 >        Packages include the number of plays,type of advertisements,type of applications e.t.c
->  ####  For a advertisement provider (App Developer)
+>  ####  For an advertisement provider (App Developer)
 >        The provider (the one who shows the ad in their app, most probably the app
 >        developers) needs to set up their profile for the type of advertisement requirement.
 
-  #### Revenue Model   
+  #### Revenue Model
+  
+  The revenue model invloves revenue generation on the basis of advertisements playing duration.
+  
+  *  For example,
+      Consider the condition for a advertiser,need to advertise in through Ad-Network. How they want to pay us?
+      
+      Total payment can be part of package or duration based.
+      
+      If it is duration based:
+            
+            Total amount = Total duration in sec * Rate (based on type)
+            
+            
 
 
