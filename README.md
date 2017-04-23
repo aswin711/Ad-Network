@@ -53,7 +53,7 @@ This is based on the number of ad plays ie the time you allocate for a particula
   
   ### What is an advertisement box?
  
- It is ui based.App developer can allot a space on app screen for the advertisement.
+ It is UI based. App developer can allot a space on app screen for the advertisement.
  It can be of three types:
  
  * Full Screen Ad
