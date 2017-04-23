@@ -6,7 +6,7 @@ Everyone needs to be adverstised ,But the real problem is where to place your ad
 ## How it works?
 
 Our beta version targets only in android apps, So the system is much simpler as you can imagine.
-   *Just login to our ad-network create an account.*
-   *Select your role (Advertiser or Provider).*
-   *
+   > *Just login to our ad-network create an account.*
+   > *Select your role (Advertiser or Provider).*
+   > *
 
